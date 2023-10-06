@@ -1,0 +1,8 @@
+tee
+nevvr
+touch .txt
+ext\iit
+ie:x
+:x
+:X
+
